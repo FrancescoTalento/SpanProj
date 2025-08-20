@@ -24,6 +24,9 @@ button {
   border: none;
   cursor: pointer;
 }
+fieldset{
+  border: noen;
+}
 
 body {
   font-family: var(--fonte);
